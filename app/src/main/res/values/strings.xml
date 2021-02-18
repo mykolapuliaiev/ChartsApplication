@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chart Application</string>
+
+    <!--Tabs-->
+    <string name="tab_line_chart_title">Line</string>
+    <string name="tab_candle_chart_title">Candlestick</string>
+
+    <!--Data timelines-->
+    <string name="weekly_data">Weekly data</string>
+    <string name="monthly_data">Monthly data</string>
+
+    <!--Exceptions-->
+    <string name="exception_unable_to_receive_chart_type">Can\'t parse chart type.</string>
+    <string name="exception_unable_to_receive_week_chart_data">Can\'t parse week chart data.</string>
+    <string name="exception_unable_to_receive_month_chart_data">Can\'t parse month chart data.</string>
+</resources>
